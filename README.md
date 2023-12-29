@@ -1,5 +1,8 @@
 # Luna's build of DWM (Dynamic Window Manager)
 
+![image](https://github.com/ByteXenon/dwm/assets/125568681/585594de-0dc4-4e9e-8c31-fd80311ec463)
+
+
 This is my custom build of DWM. It is based on [ChadWM](https://github.com/ChadSki/chadwm) which is a fork of the original [DWM](https://dwm.suckless.org/) by [Suckless](https://suckless.org/). I highly recommend you to check out the original DWM and ChadWM before using this build, because they're awesome.
 
 ## Luna's changes
